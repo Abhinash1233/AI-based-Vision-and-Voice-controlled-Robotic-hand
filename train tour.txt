@@ -1,4 +1,19 @@
-step one data.py will collect images using amd also label them manuall you hab=ve to this
-step 2 xml to txt conversion 
-step 3 train the model with the images and lables in yolo_tarin.py 
-step 4 use the model as we are using in box_detection.py
+📋 Project Steps
+Step 1:
+  data.py is used to collect images using the camera and also label them manually. You have to do this first.
+
+Step 2:
+  Convert the XML label files to YOLO format (.txt files).
+
+Step 3:
+  Train the model using the images and labels by running yolo_train.py.
+
+Step 4:
+  Use the trained model for detection by running box_detection.py.
+
+Step 5:
+  First, upload and run final_data_input_control.ino to establish UART communication between the Arduino microcontroller and the system's       Python script.
+  Then, run jeerymulti.py to start the robot.
+
+⚠️ Note: Some of these files are not yet uploaded to this GitHub repository. But I have them.
+If you need any of them or want help building the project, feel free to contact me — I'm happy to help 😊!
