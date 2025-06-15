@@ -1,6 +1,6 @@
 🤖 Talking Robotic Hand
   Hello everyone! I'm building a robotic hand that can talk to you — just like Jarvis!
-  No more buttons or complex controllers. You simply ask it, and it does the job — from picking and placing objects to handling various household tasks, depending on the       gripper attached.
+  No more buttons or complex controllers. You simply ask it, and it does the job — from picking and placing objects to handling various household tasks, depending on the gripper attached.
 
 ✨ Project Vision
   This robotic hand aims to revolutionize how we interact with machines:
@@ -28,12 +28,16 @@
   📏 VL53L0X LiDAR sensor
   📷 Computer Vision (YOLO / MediaPipe)
   🔋 Custom Power Management System
-
+  
+Proof of the work
+  https://drive.google.com/drive/folders/1HwfQRQcFdr3dHqxVNPJOhT-f0I5TtpnA
+  
 📦 Future Goals
   Add ROS2 compatibility
   Real-time feedback with haptic sensors
   Full-body robotic integration
   Web/Mobile app control interface
+
   
 🤝 Contributions Welcome!
   If you're interested in contributing to this open-source robotic hand project — whether you're into CAD, electronics, AI, or coding — I’d love your help.
