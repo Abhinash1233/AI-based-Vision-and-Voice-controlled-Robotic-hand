@@ -1,0 +1,4 @@
+step one data.py will collect images using amd also label them manuall you hab=ve to this
+step 2 xml to txt conversion 
+step 3 train the model with the images and lables in yolo_tarin.py 
+step 4 use the model as we are using in box_detection.py
